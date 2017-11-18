@@ -187,15 +187,15 @@
 		8933C7811EB5B7E0000D00A4 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
+				876BBAFA1FB5308C008C8621 /* Localizable.strings */,
 				87EDDF8D1FB5274400F1D107 /* Constants.swift */,
 				87EDDFB01FB529A400F1D107 /* Constants+UIKit.swift */,
+				CDA4DD721F29F70700F01611 /* DeallocTracker.swift */,
 				87EDDF9B1FB5278B00F1D107 /* Extensions.swift */,
 				87EDDFA61FB5281500F1D107 /* Extensions+UIKit.swift */,
-				CDDD75231F7D3664001BCD29 /* DashboardView */,
-				CDDD75261F7D3664001BCD29 /* LifetimeTracker+DashboardView.swift */,
 				8933C7841EB5B820000D00A4 /* LifetimeTracker.swift */,
-				CDA4DD721F29F70700F01611 /* DeallocTracker.swift */,
-				876BBAFA1FB5308C008C8621 /* Localizable.strings */,
+				CDDD75261F7D3664001BCD29 /* LifetimeTracker+DashboardView.swift */,
+				CDDD75231F7D3664001BCD29 /* DashboardView */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
